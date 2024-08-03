@@ -11,7 +11,7 @@ CMake 3.14 or later
 A C++ compiler that supports C++11  
 Git
 
-## Building the Project  
+## Settting up the Project  
 
 Clone this repository:  
 ```sh  
@@ -36,7 +36,7 @@ cmake --build .
 ``` 
 This will download the fmt library, build it, and then build the cmake-fetchcontent-example project. The resulting executable will be named cmake-fetchcontent-example (or cmake-fetchcontent-example.exe on Windows).
 
-## Generated Build Files
+## Generated Build Files and Building the Project
 
 Running CMake generates build files for your specific build system:
 
