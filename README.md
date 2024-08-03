@@ -1,6 +1,8 @@
 
 # CMake FetchContent Example  
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Cross-platform CMake project demonstrating the use of FetchContent for dependency management.
 
 This repository demonstrates a simple CMake project that uses the FetchContent module to manage dependencies. In this example, the fmt library is fetched from its Git repository and is used in this project.
